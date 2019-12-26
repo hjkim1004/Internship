@@ -16,3 +16,17 @@ OJT Presentation written by Heejeong Kim during internship.
 
 ### 2. kic-consulting
 - This directory is demo-sites for final presentation
+
+## Atlassian Products Preview
+### 1. Jira
+[![Jira](https://github.com/dadmi97/Atlassian/blob/master/kic-consulting/img/products/jira.jpg)]
+
+### 2. Confluence
+[![Confluence](https://github.com/dadmi97/Atlassian/blob/master/kic-consulting/img/products/confluence.jpg)]
+
+### 3. Bitbucket
+[![Bitbucket](https://github.com/dadmi97/Atlassian/blob/master/kic-consulting/img/products/bitbucket.jpg)]
+
+### 4. Crowd
+[![Crowd](https://github.com/dadmi97/Atlassian/blob/master/kic-consulting/img/products/crowd.jpg)]
+
