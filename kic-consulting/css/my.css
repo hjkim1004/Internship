@@ -1,0 +1,2 @@
+.sharebtn_custom { filter: grayscale(50%) opacity(0.6); } 
+.sharebtn_custom:hover { filter: none; }

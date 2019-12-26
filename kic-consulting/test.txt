@@ -1,0 +1,65 @@
+commit 097845538c99ea95df3457833e62df1d468076b5
+Author: developer2 <developer2@kicco.com>
+Date:   Mon Dec 16 08:00:19 2019 +0000
+
+    DEMO-8 ALM Description and Image 추가
+
+commit c0c2bd44c1f4e6a5869e39d5e0b1051c40631e40
+Merge: d68428d 7f7ff77
+Author: reviewer 2 <reviewr2@kicco.com>
+Date:   Mon Dec 16 04:21:20 2019 +0000
+
+    Merge pull request #4 in DEMO/kic-consulting from DEMO-7-section to master
+    
+    * commit '7f7ff777152df4223d926d86a112eba5036db144':
+      DEMO-7 URL 클릭시 새로운 탭 열기 ( blank 추가)
+
+commit 7f7ff777152df4223d926d86a112eba5036db144
+Author: developer1 <developer1@kicco.com>
+Date:   Mon Dec 16 02:09:25 2019 +0000
+
+    DEMO-7 URL 클릭시 새로운 탭 열기 ( blank 추가)
+
+commit d68428d7c8138a0b67e9730d615fdf2a0eba4726
+Author: Heejeong Kim <dadmi97@kicco.com>
+Date:   Fri Dec 13 08:30:19 2019 +0000
+
+    fatal error update; Invalid user push into master
+
+commit 47561941b16b4aca8988d66f844e50b6d5ac6d7c
+Merge: 7dd1733 fad3a04
+Author: developer 1 <developer1@kicco.com>
+Date:   Fri Dec 13 07:24:36 2019 +0000
+
+    Merge branch 'issue' of http://ubuntu.heejeong.com/bitbucket/scm/demo/heejeong
+
+commit fad3a047488fa114843f1448e190507eff2d69aa
+Author: developer 1 <developer1@kicco.com>
+Date:   Fri Dec 13 06:27:54 2019 +0000
+
+    DEMO-6 Product Icon 변경 및 link 삽입
+
+commit 7dd173390f65c6999b27be02ff1868911dd272c8
+Merge: 75be707 cce1046
+Author: Heejeong Kim <dadmi97@kicco.com>
+Date:   Fri Dec 13 05:24:46 2019 +0000
+
+    Merge branch 'issue' of http://ubuntu.heejeong.com/bitbucket/scm/demo/heejeong
+
+commit cce104695e6b9ceca82e72852972f89653f8116f
+Author: Heejeong Kim <dadmi97@kicco.com>
+Date:   Fri Dec 13 04:44:28 2019 +0000
+
+    DEMO-6 Production Section 및 Description 추가
+
+commit 75be707eecb5078c98138c1d29aec840187147e1
+Author: Heejeong Kim <dadmi97@kicco.com>
+Date:   Fri Dec 13 00:49:43 2019 +0000
+
+    DEMO-4 화면 개설
+
+commit 2d9e826018584cc65c476ea4eea2438d6ceacf4f
+Author: Heejeong Kim <dadmi97@kicco.com>
+Date:   Thu Dec 12 12:00:58 2019 +0000
+
+    Bootstrap Template
