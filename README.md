@@ -1,5 +1,5 @@
 # ALM System
-Introduce ALM System and Atlassian products with **[Live sites](https://dadmi97.github.io/Atlassian/kic-consulting/)**
+Introduce ALM System and Atlassian products with **[Live sites](https://dadmi97.github.io/Internship/kic-consulting/)**
 
 Applications Used: Jira, Confluence, Bitbucket, Crowd
 
